@@ -1,0 +1,8 @@
+.container {
+	width: 700px;
+}
+
+.contactItem {
+	padding: 5px;
+	background-color: rgb(241, 241, 241);
+}
